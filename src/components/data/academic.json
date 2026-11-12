@@ -1,0 +1,29 @@
+
+{
+  "nama": "Ervi Dayah",
+  "nim": "242505004",
+  "programStudi": "Sistem Informasi",
+  "semester": 5,
+  "mataKuliah": "Pemrograman Mobile 2",
+  "dosen": "Iin, M.Kom",
+  "nilai": 89,
+  "predikat": "A",
+  "progress": [
+    {
+      "nama": "Kehadiran",
+      "persentase": 100
+    },
+    {
+      "nama": "Praktikum",
+      "persentase": 87
+    },
+    {
+      "nama": "Quest",
+      "persentase": 95
+    },
+    {
+      "nama": "Challenge",
+      "persentase": 100
+    }
+  ]
+}

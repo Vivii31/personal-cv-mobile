@@ -1,0 +1,52 @@
+
+[
+  {
+    "id": "1",
+    "judul": "Web Profile dan Sistem Pengaduan DLH Kabupaten Garut",
+    "kategori": "Web Development",
+    "deskripsi": "Pengembangan website profil instansi dan sistem pengaduan masyarakat untuk mendukung penyampaian informasi, pengelolaan pengaduan, disposisi, serta pemantauan tindak lanjut pengaduan.",
+    "teknologi": [
+      "Laravel",
+      "PHP",
+      "Tailwind CSS",
+      "JavaScript",
+      "MySQL"
+    ]
+  },
+  {
+    "id": "2",
+    "judul": "E-Commerce Toko Online",
+    "kategori": "Web Application",
+    "deskripsi": "Pengembangan aplikasi toko online berbasis web untuk mendukung pengelolaan produk dan proses transaksi penjualan.",
+    "teknologi": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "id": "3",
+    "judul": "Kalkulator Matriks",
+    "kategori": "JavaScript Application",
+    "deskripsi": "Aplikasi kalkulator matriks yang menerapkan logika perhitungan untuk membantu proses operasi matematika pada matriks.",
+    "teknologi": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "id": "4",
+    "judul": "Prototype Aplikasi Mobile",
+    "kategori": "UI/UX Design",
+    "deskripsi": "Perancangan prototype aplikasi mobile dengan memperhatikan alur penggunaan, struktur navigasi, konsistensi antarmuka, dan pengalaman pengguna.",
+    "teknologi": [
+      "Figma",
+      "UI Design",
+      "UX Research",
+      "Prototyping"
+    ]
+  }
+]

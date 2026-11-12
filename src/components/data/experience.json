@@ -1,0 +1,52 @@
+
+[
+  {
+    "id": "1",
+    "tahun": "2012 - 2018",
+    "judul": "Sekolah Dasar (SD)",
+    "tempat": "SDN Pasanggrahan 4 Garut",
+    "deskripsi": "Menyelesaikan pendidikan dasar sebagai tahap awal dalam perjalanan pendidikan."
+  },
+  {
+    "id": "2",
+    "tahun": "2018 - 2021",
+    "judul": "Sekolah Menengah Pertama (SMP)",
+    "tempat": "SMPN 1 Pangandaran",
+    "deskripsi": "Menyelesaikan pendidikan menengah pertama dan mengembangkan pengetahuan serta keterampilan dasar."
+  },
+  {
+    "id": "3",
+    "tahun": "2021 - 2024",
+    "judul": "Sekolah Menengah Atas (SMA)",
+    "tempat": "SMAN 1 Pangandaran",
+    "deskripsi": "Menyelesaikan pendidikan menengah atas sebagai persiapan melanjutkan pendidikan ke perguruan tinggi."
+  },
+  {
+    "id": "4",
+    "tahun": "2024 - Sekarang",
+    "judul": "S1 Sistem Informasi",
+    "tempat": "Universitas Ma'soem",
+    "deskripsi": "Sedang menempuh pendidikan Sarjana Sistem Informasi dengan mempelajari analisis sistem, pengembangan aplikasi, teknologi informasi, desain UI/UX, dan pengelolaan data."
+  },
+  {
+    "id": "5",
+    "tahun": "Juli - September 2026",
+    "judul": "Bootcamp Tahsin Level 1",
+    "tempat": "Tahsin Indoesia",
+    "deskripsi": "Mengikuti program pembelajaran Tahsin Level 1 untuk meningkatkan kemampuan membaca Al-Qur'an sesuai kaidah tajwid dan makhraj huruf."
+  },
+  {
+    "id": "6",
+    "tahun": "6 Juli - 8 September 2026",
+    "judul": "IT Support Internship",
+    "tempat": "Dinas Lingkungan Hidup Kabupaten Garut",
+    "deskripsi": "Mengikuti kegiatan magang di bidang IT Support untuk memperoleh pengalaman dan pemahaman mengenai dukungan teknologi informasi di lingkungan instansi pemerintahan."
+  },
+  {
+    "id": "7",
+    "tahun": "12 - 18 Oktober 2026",
+    "judul": "Bootcamp Data Analytics",
+    "tempat": "Dibimbing",
+    "deskripsi": "Mengikuti bootcamp intensif selama satu minggu untuk mempelajari dasar-dasar Data Analytics serta proses pengolahan dan analisis data."
+  }
+]
